@@ -6,9 +6,9 @@ Building a Paribu Clone in Flutter.
 
 ### Screenshots
 
-<img src="assets/screenshot/paribu_home_view_ss1.png" height="300em" /> <img src="assets/screenshot/paribu_home_view_ss2.png" height="300em" />
+<img src="paribu_home_view_ss1.png" height="300em" /> <img src="paribu_home_view_ss2.png" height="300em" />
 
 ### Created & Maintained By
 
 [Hasan Sayan](https://github.com/sayanhasan)
-([Insta](https://www.instagram.com/sayannhasan))
+([Instagram](https://www.instagram.com/sayannhasan))
