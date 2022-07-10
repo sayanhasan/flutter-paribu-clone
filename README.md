@@ -4,6 +4,8 @@ Building a Paribu Clone in Flutter.
 
 ### Show some :heart: and star the repo to support the project
 
+### If you want, you can fork this project and make it better with new changes and commit it. :heart:
+
 ### Screenshots
 
 <img src="paribu_home_view_ss1.png" height="300em" /> <img src="paribu_home_view_ss2.png" height="300em" />
